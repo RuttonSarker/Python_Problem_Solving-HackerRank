@@ -4,12 +4,12 @@ Whether you're preparing for coding interviews or improving your Python skills, 
 
 Topics Covered:
 
--**Conditionals and Loops
+- **Conditionals and Loops**
 
--**Strings and Lists
+- **Strings and Lists**
 
--**Sets, Dictionaries
+- **Sets, Dictionaries**
 
--**Functions and Recursion
+- **Functions and Recursion**
 
--**Basic Algorithms and Math
+- **Basic Algorithms and Math**
